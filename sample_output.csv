@@ -1,0 +1,16 @@
+source,title,description,url,timestamp
+github,awesome-security,A curated list of awesome security resources. Contains tools and libraries.,https://github.com/sbilly/awesome-security,2025-12-11T21:30:45
+github,python-security,Python security tools and libraries collection for vulnerability scanning.,https://github.com/pyupio/safety,2025-12-11T21:30:45
+github,OWASP-Top-10,Open Web Application Security Project top 10 vulnerabilities resource.,https://github.com/OWASP/Top10,2025-12-11T21:30:45
+github,security-checklists,Security checklists and best practices for developers covering deployment and operations.,https://github.com/goldbergyoni/nodebestpractices,2025-12-11T21:30:45
+github,penetration-testing-scripts,Collection of penetration testing and ethical hacking scripts written in Python.,https://github.com/offensive-security/exploit-db,2025-12-11T21:30:45
+wikipedia,Cybersecurity,Cybersecurity is the practice of protecting systems networks and programs from digital attacks.,https://en.wikipedia.org/wiki/Cybersecurity,2025-12-11T21:30:45
+wikipedia,Information security,Information security or InfoSec is the practice of protecting information by mitigating risks.,https://en.wikipedia.org/wiki/Information_security,2025-12-11T21:30:45
+wikipedia,Python (programming language),Python is a high-level interpreted general-purpose programming language with readable code.,https://en.wikipedia.org/wiki/Python_(programming_language),2025-12-11T21:30:45
+wikipedia,Web security,Web security is the process of protecting websites and online services against exploitation.,https://en.wikipedia.org/wiki/Web_security,2025-12-11T21:30:45
+wikipedia,Network security,Network security consists of policies and practices to prevent unauthorized network access.,https://en.wikipedia.org/wiki/Network_security,2025-12-11T21:30:45
+stackoverflow,How do I secure a Python web application?,Score: 156 Tags: python security web-development,https://stackoverflow.com/questions/12871565/how-do-i-secure-a-python-web-application,2025-12-11T21:30:45
+stackoverflow,Best practices for API security in Python,Score: 89 Tags: python api security,https://stackoverflow.com/questions/35179542/best-practices-for-api-security-in-python,2025-12-11T21:30:45
+stackoverflow,SQL injection prevention in Python Django,Score: 142 Tags: python django security sql-injection,https://stackoverflow.com/questions/28816344/preventing-sql-injection-in-python-django,2025-12-11T21:30:45
+stackoverflow,Cryptography best practices in Python,Score: 98 Tags: python cryptography security,https://stackoverflow.com/questions/16761458/how-do-i-use-the-cryptography-library-in-python,2025-12-11T21:30:45
+stackoverflow,Secure password hashing in Python,Score: 176 Tags: python security passwords hashing,https://stackoverflow.com/questions/9594841/secure-password-hashing-in-python,2025-12-11T21:30:45

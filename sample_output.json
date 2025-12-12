@@ -1,0 +1,120 @@
+{
+  "search": {
+    "keyword": "cybersecurity python",
+    "timestamp": "2025-12-11T21:30:45.123456",
+    "sources": [
+      "wikipedia",
+      "github",
+      "stackoverflow"
+    ],
+    "total_results": 15,
+    "search_time_seconds": 4.32
+  },
+  "results": [
+    {
+      "source": "github",
+      "title": "awesome-security",
+      "description": "A curated list of awesome security resources. Contains tools, frameworks, libraries, documentation, and learning resources for cybersecurity professionals and researchers.",
+      "url": "https://github.com/sbilly/awesome-security",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "github",
+      "title": "python-security",
+      "description": "Python security tools and libraries collection. Includes vulnerability scanning, code analysis, and secure coding practices.",
+      "url": "https://github.com/pyupio/safety",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "github",
+      "title": "OWASP-Top-10",
+      "description": "Open Web Application Security Project top 10 vulnerabilities. Educational resource for web application security.",
+      "url": "https://github.com/OWASP/Top10",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "github",
+      "title": "security-checklists",
+      "description": "Security checklists and best practices for developers. Covers secure coding, deployment, and operations.",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "github",
+      "title": "penetration-testing-scripts",
+      "description": "Collection of penetration testing and ethical hacking scripts written in Python.",
+      "url": "https://github.com/offensive-security/exploit-db",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "wikipedia",
+      "title": "Cybersecurity",
+      "description": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information.",
+      "url": "https://en.wikipedia.org/wiki/Cybersecurity",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "wikipedia",
+      "title": "Information security",
+      "description": "Information security, sometimes shortened as InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management.",
+      "url": "https://en.wikipedia.org/wiki/Information_security",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "wikipedia",
+      "title": "Python (programming language)",
+      "description": "Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with significant indentation.",
+      "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "wikipedia",
+      "title": "Web security",
+      "description": "Web security is the process of protecting websites and online services against different exploitation attempts. It involves application of firewall and related systems.",
+      "url": "https://en.wikipedia.org/wiki/Web_security",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "wikipedia",
+      "title": "Network security",
+      "description": "Network security consists of the policies and practices adopted to prevent and monitor unauthorized access to the network infrastructure or its misuse.",
+      "url": "https://en.wikipedia.org/wiki/Network_security",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "stackoverflow",
+      "title": "How do I secure a Python web application?",
+      "description": "Score: 156, Tags: python, security, web-development",
+      "url": "https://stackoverflow.com/questions/12871565/how-do-i-secure-a-python-web-application",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "stackoverflow",
+      "title": "Best practices for API security in Python",
+      "description": "Score: 89, Tags: python, api, security",
+      "url": "https://stackoverflow.com/questions/35179542/best-practices-for-api-security-in-python",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "stackoverflow",
+      "title": "SQL injection prevention in Python Django",
+      "description": "Score: 142, Tags: python, django, security, sql-injection",
+      "url": "https://stackoverflow.com/questions/28816344/preventing-sql-injection-in-python-django",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "stackoverflow",
+      "title": "Cryptography best practices in Python",
+      "description": "Score: 98, Tags: python, cryptography, security",
+      "url": "https://stackoverflow.com/questions/16761458/how-do-i-use-the-cryptography-library-in-python",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    },
+    {
+      "source": "stackoverflow",
+      "title": "Secure password hashing in Python",
+      "description": "Score: 176, Tags: python, security, passwords, hashing",
+      "url": "https://stackoverflow.com/questions/9594841/secure-password-hashing-in-python",
+      "timestamp": "2025-12-11T21:30:45.123456"
+    }
+  ]
+}
